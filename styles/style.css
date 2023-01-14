@@ -98,7 +98,7 @@ a{
 }
 .banner-1{
     position: absolute;
-    width: 55%;
+    width:60%;
     height: 700px;
     left:241px;
     top: 577px;
@@ -114,18 +114,16 @@ top: 1407px;
 }
 .image-section{
     display: flex;
-    gap: 8px;
-    margin-bottom: 7px;
-    margin-left: -94px;
+    gap: 14px;
+    margin-bottom: 16px;
+    margin-left: -58px;
 }
-.section-container-secondrow{
 
-}
 .secondrow-title{
     position: absolute;
     width: 468px;
     height: 106px;
-    right: -230%;
+    right:-247%;
     top: 160px;
     font-family: 'Work Sans';
     font-style: normal;
@@ -147,7 +145,7 @@ span{
     position: absolute;
     width: 517px;
     height: 78px;
-    left: 660px;
+    left:719px;
     top: 314px;
     font-family: 'Work Sans';
     font-style: normal;
@@ -159,11 +157,151 @@ span{
     position: absolute;
     width: 151px;
     height: 57px;
-    left: 660px;
+    left:717px;
     top: 439px;
     background: #FF900E;
     border-radius: 8px;
     color: white;
     font-size: 17px;
     border: navajowhite
+}
+hr{
+    position: absolute;
+    width: 3px;
+    height: 106px;
+    left:-101px;
+    top: 780px;
+    background: #FF900E;
+
+background: #FF900E;
+}
+.third-sectiontitle{
+    position: absolute;
+    width: 468px;
+    height: 106px;
+    left:-70px;
+    top: 740px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 53px;
+    color: #131313;
+}
+.third-subtitle{
+    position: absolute;
+    width: 564px;
+    height: 78px;
+    left:-101px;
+    top: 894px;
+    font-family: 'Work Sans';
+    font-size: 14px;
+    line-height: 26px;
+    color: #727272;
+}
+.box{
+    position: absolute;
+    width: 586px;
+    height: 171px;
+    left:-101px;
+    top: 1015px;
+    box-shadow: 0px 1px 5px 2px lightgrey;
+
+}
+.box-title{
+
+    position: absolute;
+    width: 586px;
+    height: 171px;
+    left: 29px;
+    font-size: 16px;
+    top: 12px;
+}
+.box-subtitle{
+    position: absolute;
+    width: 509px;
+    height: 78px;
+    left: 29px;
+    top: 37px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 26px;
+    color: #727272;
+}
+
+.box-1{
+    position: absolute;
+    width: 586px;
+    height: 171px;
+    left:-101px;
+    top: 1224px;
+    box-shadow: 0px 1px 5px 2px lightgrey;
+
+
+}
+.box-title-1{
+
+    position: absolute;
+    width: 586px;
+    height: 171px;
+    left: 29px;
+    font-size: 16px;
+    top: 12px;
+}
+.box-subtitle-1{
+    position: absolute;
+    width: 509px;
+    height: 78px;
+    left: 29px;
+    top: 37px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 26px;
+    color: #727272;
+}
+
+.box-2{
+    position: absolute;
+    width: 586px;
+    height: 171px;
+    left:-101px;
+    top: 1441px;
+    box-shadow: 0px 1px 5px 2px lightgrey;
+
+
+}
+.box-title-2{
+
+    position: absolute;
+    width: 586px;
+    height: 171px;
+    left: 29px;
+    font-size: 16px;
+    top: 12px;
+}
+.box-subtitle-2{
+    position: absolute;
+    width: 509px;
+    height: 78px;
+    left: 29px;
+    top: 37px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 26px;
+    color: #727272;
+}
+.third-imgsection{
+    position: absolute;
+    width: 622px;
+    height: 833px;
+    left: 558px;
+    top: 767px;
+    background: url(../images/architect.png);
+    border-radius: 8px;
 }
